@@ -6,6 +6,7 @@
   "author": "alphasec",
   "license": "MIT",
   "dependencies": {
+    "chrono-node": "^2.8.0",
     "express": "^4.19.2"
   },
   "scripts": {
